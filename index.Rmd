@@ -1,5 +1,4 @@
 ---
-title: "Welcome to my website!"
+title: "Welcome to the Population Genomics and Ecology Group at LIB!"
 ---
 
-You're up and running!
